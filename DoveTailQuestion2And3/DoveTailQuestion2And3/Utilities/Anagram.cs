@@ -2,38 +2,37 @@
 namespace DoveTailQuestion2And3.Utilities
 {
     using System;
-    using System.Collections.Generic;
-    using System.Text;
-
-    public class Anagram
+    public static class Anagram
     {
-        public bool CheckAnagram(string firstString, string secondString)
+        public static bool CheckForAnagram(string firstString, string secondString)
         {
-            if (firstString == null || secondString == null)
+            if (!CheckForNullsAndEmpty(firstString, secondString))
             {
                 return false;
             }
-            if (firstString == string.Empty || secondString == string.Empty)
-            {
-                return false;
-            }
-            if (firstString.Length != secondString.Length)
-            {
-                return false;
-            }
-            //Convert string to character array  
-            char[] firstCharsArray = firstString.ToLower().ToCharArray();
-            char[] secondCharsArray = secondString.ToLower().ToCharArray();
-            //Sort array  
+            var firstCharsArray = firstString.ToLower().ToCharArray();
+            var secondCharsArray = secondString.ToLower().ToCharArray();
             Array.Sort(firstCharsArray);
             Array.Sort(secondCharsArray);
-            //Check each character and position.  
             for (int i = 0; i < firstCharsArray.Length; i++)
             {
                 if (firstCharsArray[i].ToString() != secondCharsArray[i].ToString())
                 {
                     return false;
                 }
+            }
+            return true;
+        }
+
+        private static bool CheckForNullsAndEmpty(string firstString, string secondString)
+        {
+            if (string.IsNullOrEmpty(firstString) || string.IsNullOrEmpty(secondString))
+            {
+                return false;
+            }
+            if (firstString.Length != secondString.Length)
+            {
+                return false;
             }
             return true;
         }

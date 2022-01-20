@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test.csproj": {}
+    "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test.csproj": {}
   },
   "projects": {
-    "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test.csproj": {
+    "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test.csproj",
+        "projectUniqueName": "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test.csproj",
         "projectName": "DoveTailQuestion2And3Test",
-        "projectPath": "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test.csproj",
+        "projectPath": "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test.csproj",
         "packagesPath": "C:\\Users\\rgq111\\.nuget\\packages\\",
-        "outputPath": "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test\\obj\\",
+        "outputPath": "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3Test\\DoveTailQuestion2And3Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rgq111\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\DoveTailQuestion2And3.csproj": {
-                "projectPath": "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\DoveTailQuestion2And3.csproj"
+              "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\DoveTailQuestion2And3.csproj": {
+                "projectPath": "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\DoveTailQuestion2And3.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\DoveTailQuestion2And3.csproj": {
+    "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\DoveTailQuestion2And3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\DoveTailQuestion2And3.csproj",
+        "projectUniqueName": "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\DoveTailQuestion2And3.csproj",
         "projectName": "DoveTailQuestion2And3",
-        "projectPath": "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\DoveTailQuestion2And3.csproj",
+        "projectPath": "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\DoveTailQuestion2And3.csproj",
         "packagesPath": "C:\\Users\\rgq111\\.nuget\\packages\\",
-        "outputPath": "C:\\Deepak-Singh\\DoveTail\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\obj\\",
+        "outputPath": "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQuestion2And3\\DoveTailQuestion2And3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rgq111\\AppData\\Roaming\\NuGet\\NuGet.Config",

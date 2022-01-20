@@ -1,4 +1,4 @@
-1) Folder DoveTailQ1 is for question no 1.
+1) Folder DoveTailQ1 is for question no 1. Unit Test project inside it.
 2) Folder DoveTailQuestion2And3 for for question 2 & 3. It also contains unit test project in it only for Question 2 & 3.
 3) Both of the solution has been built on dot net core 3.1.
 4) It can be run on Visual Studio 2019 and above or using VS Code with command line interface.

@@ -1,7 +1,7 @@
-﻿@model DoveTailQ1.Models.Register
+﻿@model DoveTailQ1.Models.RegisterViewModel
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Create";
 }
 
 <h4>Register</h4>
@@ -25,16 +25,21 @@
                 <input asp-for="PhoneNumber" class="form-control" />
                 <span asp-validation-for="PhoneNumber" class="text-danger"></span>
             </div>
+            
             <div class="form-group">
                 <label asp-for="Country" class="control-label"></label>
-                <input asp-for="Country" class="form-control" />
+                <select asp-for="Country" class="form-control">
+                    <option selected disabled>Select Country</option>
+                    <option>India</option>
+                    <option>England</option>
+                </select>
                 <span asp-validation-for="Country" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
             <div>
-                <b style="color:aqua;">@ViewBag.message</b>
+                <b style="color:aqua;">@TempData["message"]</b>
             </div>
         </form>
     </div>

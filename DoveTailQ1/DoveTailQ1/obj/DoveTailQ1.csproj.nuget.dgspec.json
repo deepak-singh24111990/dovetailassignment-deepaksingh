@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Deepak-Singh\\DoveTail\\DoveTailQ1\\DoveTailQ1\\DoveTailQ1.csproj": {}
+    "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQ1\\DoveTailQ1\\DoveTailQ1.csproj": {}
   },
   "projects": {
-    "C:\\Deepak-Singh\\DoveTail\\DoveTailQ1\\DoveTailQ1\\DoveTailQ1.csproj": {
+    "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQ1\\DoveTailQ1\\DoveTailQ1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Deepak-Singh\\DoveTail\\DoveTailQ1\\DoveTailQ1\\DoveTailQ1.csproj",
+        "projectUniqueName": "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQ1\\DoveTailQ1\\DoveTailQ1.csproj",
         "projectName": "DoveTailQ1",
-        "projectPath": "C:\\Deepak-Singh\\DoveTail\\DoveTailQ1\\DoveTailQ1\\DoveTailQ1.csproj",
+        "projectPath": "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQ1\\DoveTailQ1\\DoveTailQ1.csproj",
         "packagesPath": "C:\\Users\\rgq111\\.nuget\\packages\\",
-        "outputPath": "C:\\Deepak-Singh\\DoveTail\\DoveTailQ1\\DoveTailQ1\\obj\\",
+        "outputPath": "C:\\Deepak-Singh\\dovetailassignment-deepaksingh\\DoveTailQ1\\DoveTailQ1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rgq111\\AppData\\Roaming\\NuGet\\NuGet.Config",
